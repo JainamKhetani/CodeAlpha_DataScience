@@ -30,10 +30,15 @@ The CNN automatically learns flower patterns, petal structures, textures, and vi
 # 🎯 Project Objectives
 
 ✅ Build a Deep Learning based image classifier
+
 ✅ Understand CNN architecture and image preprocessing
+
 ✅ Train a TensorFlow/Keras model on flower images
+
 ✅ Visualize training performance using graphs
+
 ✅ Evaluate model accuracy using classification metrics
+
 ✅ Save and deploy trained AI model
 
 ---
@@ -151,7 +156,7 @@ Softmax Output Layer
 # 📷 Sample Dataset Images
 
 <p align="center">
-  <img src="graphs/sample_images.png" width="700">
+  <img src="images/sample_images.png" width="700">
 </p>
 
 ---
@@ -159,7 +164,7 @@ Softmax Output Layer
 # 📊 Model Training Accuracy
 
 <p align="center">
-  <img src="graphs/accuracy_graph.png" width="700">
+  <img src="images/accuracy_graph.png" width="700">
 </p>
 
 ---
@@ -167,7 +172,7 @@ Softmax Output Layer
 # 📉 Model Loss Graph
 
 <p align="center">
-  <img src="graphs/loss_graph.png" width="700">
+  <img src="images/loss_graph.png" width="700">
 </p>
 
 ---
@@ -175,7 +180,7 @@ Softmax Output Layer
 # 🔍 Confusion Matrix
 
 <p align="center">
-  <img src="graphs/confusion_matrix.png" width="700">
+  <img src="images/confusion_matrix.png" width="700">
 </p>
 
 ---
@@ -194,13 +199,21 @@ Softmax Output Layer
 # 🚀 Features of This Project
 
 ✨ Deep Learning based Image Classification
+
 ✨ CNN architecture using TensorFlow/Keras
+
 ✨ Automatic image preprocessing
+
 ✨ Dataset normalization
+
 ✨ Validation split handling
+
 ✨ Accuracy & Loss visualization
+
 ✨ Confusion matrix evaluation
+
 ✨ Model saving using `.h5` format
+
 ✨ Professional project structure
 
 ---
@@ -239,10 +252,15 @@ This model can later be used for:
 # 📚 Future Improvements
 
 🔹 Increase dataset size
+
 🔹 Apply data augmentation
+
 🔹 Use Transfer Learning (MobileNet, ResNet)
+
 🔹 Build a real-time prediction web app
+
 🔹 Deploy model on cloud platforms
+
 🔹 Improve accuracy with advanced CNN architectures
 
 ---
@@ -250,9 +268,13 @@ This model can later be used for:
 # 🌍 Real World Applications
 
 🌸 Botanical Research
+
 🌱 Smart Agriculture
+
 📷 AI-based Plant Identification
+
 🤖 Computer Vision Systems
+
 📚 Educational AI Projects
 
 ---
@@ -314,7 +336,9 @@ jupyter notebook
 ## Jainam Khetani
 
 🎓 B.Tech CSE Student
+
 💡 Passionate about AI, Machine Learning & Development
+
 🚀 Exploring Deep Learning & Computer Vision
 
 ---
